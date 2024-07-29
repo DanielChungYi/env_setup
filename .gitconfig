@@ -1,0 +1,11 @@
+[core]
+	editor = vim
+[user]
+	name = Daniel Chung
+	email = ms0227162@gmail.com
+[alias]
+	co = checkout
+	br = branch
+	ci = commit
+	st = status
+    pb = pull rebase
