@@ -8,4 +8,4 @@
 	br = branch
 	ci = commit
 	st = status
-    pb = pull rebase
+	pb = pull --rebase
