@@ -186,14 +186,6 @@ Plug 'morhetz/gruvbox'
 " Initialize plugin system
 call plug#end()
 
-if filereadable($HOME . "/.vim/andes.vim")
-    source $HOME/.vim/andes.vim
-endif
-
-if filereadable($HOME . "/.vim/custom.vim")
-    source $HOME/.vim/custom.vim
-endif
-
 " theme color
 set list " show all white spaces as character
 set background=dark 
